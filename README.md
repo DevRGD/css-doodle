@@ -68,7 +68,7 @@ To run this project locally, follow these steps:
 1.  **Clone the repository**
 
     ```bash
-    git clone [https://github.com/DevRGD/css-doodle](https://github.com/DevRGD/css-doodle)
+    git clone https://github.com/DevRGD/css-doodle
     cd css-doodle
     ```
 
